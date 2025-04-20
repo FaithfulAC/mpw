@@ -15,11 +15,12 @@ h3 {
 }
 
 a {
-	color:white;
+	color:/*light grey*/;
 }
 
 h1, h2, h3 {
 	text-align:center;
+	color:white;
 }
 
 div.actual-content {
