@@ -1,21 +1,26 @@
 body {
-	background-color:black;
+	color:black;
 }
 
 h1 {
-
+	font:;
 }
 
 h2 {
-
+	font:;
 }
 
 h3 {
+	font:;
+}
+
+a {
 
 }
 
 div.big-title {
-
+	padding:50px;
+	text-align:center;
 }
 
 div.actual-content {
