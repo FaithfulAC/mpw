@@ -4,6 +4,7 @@ body {
 
 h1 {
 	font-family:Arial;
+	text-align:center;
 }
 
 h2 {
@@ -15,14 +16,13 @@ h3 {
 }
 
 a {
-	color:/*light grey*/;
+	color:#eeeeee;
 }
 
 h1, h2, h3 {
-	text-align:center;
 	color:white;
 }
 
 div.actual-content {
-	margin-right:100px:
+	margin-left:50px:
 }
