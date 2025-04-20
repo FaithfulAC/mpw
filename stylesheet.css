@@ -3,26 +3,25 @@ body {
 }
 
 h1 {
-	font:;
+	font:Arial;
 }
 
 h2 {
-	font:;
+	font:Arial;
 }
 
 h3 {
-	font:;
+	font:Arial;
 }
 
 a {
-
+	color:white;
 }
 
-div.big-title {
-	padding:50px;
+h1, h2, h3 {
 	text-align:center;
 }
 
 div.actual-content {
-
+	margin-left20px:
 }
