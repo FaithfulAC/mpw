@@ -4,16 +4,7 @@ body {
 }
 
 h1 {
-	font-family:Arial;
 	text-align:center;
-}
-
-h2 {
-	font-family:Arial;
-}
-
-h3 {
-	font-family:Arial;
 }
 
 a {
@@ -24,6 +15,14 @@ h1, h2, h3 {
 	color:white;
 }
 
-div.actual-content {
-	margin-left:50px:
+div.section-1 {
+	text-align:left;
+}
+
+div.section-2 {
+	text-align:center;
+}
+
+div.section-3 {
+	text-align:right;
 }
