@@ -28,6 +28,10 @@ h3:hover {
 	animation: h3-hover 0.4s forwards;
 }
 
+span.list {
+	padding-left: 20px;
+}
+
 /*div.section-1 {
 	text-align:left;
 }
